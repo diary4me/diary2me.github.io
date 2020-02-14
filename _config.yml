@@ -1,10 +1,10 @@
 # Site settings
 title: Free Blog
 SEOTitle: 目田的博客 | Free Blog
-header-img: img/post-bg-desk.jpg
+header-img: 
 email: getwings4u@gmail.com
 description: "Actions speak louder than words ."
-keyword: "Free Blog, 目田的博客, diary"
+keyword: "Free Blog, 目田的博客, diary,law,science,society"
 url: "https://diary4me.github.io/diary2me.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://diary4me.github.io/" # you code repository
@@ -96,18 +96,4 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "",
-        href: ""
-    },{
-        title: "",
-        href: ""
-    },{
-        title: "",
-        href: ""
-    },{
-        title: "",
-        href: ""
-    }
-]
+friends: [   ]
